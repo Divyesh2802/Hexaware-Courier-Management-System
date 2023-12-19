@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CourierManagementSystem.iml" filepath="$PROJECT_DIR$/.idea/CourierManagementSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../InsuranceManagementSystem/.idea/InsuranceManagementSystem.iml" filepath="$PROJECT_DIR$/../InsuranceManagementSystem/.idea/InsuranceManagementSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../VirtualArtGallery/.idea/VirtualArtGallery.iml" filepath="$PROJECT_DIR$/../VirtualArtGallery/.idea/VirtualArtGallery.iml" />
+    </modules>
+  </component>
+</project>
